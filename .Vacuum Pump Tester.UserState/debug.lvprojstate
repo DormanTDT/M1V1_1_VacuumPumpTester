@@ -1,0 +1,54 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Acquisition.lvlib:Acquisition Message Loop.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="5388"/>
+          <SignalUID value="3647"/>
+          <SignalUID value="3623"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Acquisition.lvlib:Volume Pull Collect.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="4118"/>
+          <SignalUID value="3013"/>
+          <SignalUID value="4439"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Logging.lvlib:Logging Message Loop.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2314"/>
+          <SignalUID value="1456"/>
+          <SignalUID value="4080"/>
+          <SignalUID value="1681"/>
+          <SignalUID value="2823"/>
+          <SignalUID value="1753"/>
+          <SignalUID value="4518"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
