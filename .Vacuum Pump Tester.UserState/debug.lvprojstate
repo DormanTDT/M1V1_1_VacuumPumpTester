@@ -13,10 +13,16 @@
           <SignalUID value="5388"/>
           <SignalUID value="3647"/>
           <SignalUID value="3623"/>
+          <SignalUID value="9986"/>
+          <SignalUID value="7594"/>
+          <SignalUID value="7866"/>
         </Generic>
+        <Smart>
+          <Probe signalUID="6912" menuID="-1" itemID="-1" path="C:\Program Files (x86)\National Instruments\LabVIEW 2026\vi.lib\_probes\default\StringProbe.vi"/>
+        </Smart>
       </Probes>
     </VI>
-    <VI name="Acquisition.lvlib:Volume Pull Collect.vi">
+    <VI name="VFD Library.lvlib:Example 1.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>
@@ -25,28 +31,7 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="4118"/>
-          <SignalUID value="3013"/>
-          <SignalUID value="4439"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Logging.lvlib:Logging Message Loop.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="2314"/>
-          <SignalUID value="1456"/>
-          <SignalUID value="4080"/>
-          <SignalUID value="1681"/>
-          <SignalUID value="2823"/>
-          <SignalUID value="1753"/>
-          <SignalUID value="4518"/>
+          <SignalUID value="45"/>
         </Generic>
       </Probes>
     </VI>

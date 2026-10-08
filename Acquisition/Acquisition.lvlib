@@ -32,4 +32,5 @@
 	<Item Name="NI 9215 Slot 1 Analog In.vi" Type="VI" URL="../cDAQ Channel Configurations/NI 9215 Slot 1 Analog In.vi"/>
 	<Item Name="WaitForRPM.vi" Type="VI" URL="../WaitForRPM.vi"/>
 	<Item Name="Volume Pull Collect.vi" Type="VI" URL="../Volume Pull Collect.vi"/>
+	<Item Name="Durability.vi" Type="VI" URL="../Durability.vi"/>
 </Library>
